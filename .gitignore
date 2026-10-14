@@ -1,0 +1,27 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Private dataset
+data/
+*.xlsx
+
+# Generated reports and charts
+reports/
+visualizations/
+Final_Submission/
+
+# Submission archives
+*.zip
+
+# Environment and editor
+.env
+.env.*
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
